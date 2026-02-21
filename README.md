@@ -27,7 +27,7 @@ eMCP Nexus is an AI-powered marketplace that connects AI engineers with users th
   - Instant deployment—no complex setup or configuration required.
   - Automatic tool parsing and indexing for discoverability.
 
-- **Earn Per Task:**
+- **Earn Per Task:** 
   - Set your own pricing for each task execution.
   - Receive payments instantly via crypto or traditional payment methods.
   - Track earnings and usage analytics in real-time.
